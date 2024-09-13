@@ -1,0 +1,68 @@
+.bg-container{
+    background-image:radial-gradient(#9af1df,#ffbbbb);
+    background-size: cover;
+    height:100%;
+    width:100%;
+    padding:25px;
+}
+.card-container{
+    background-color: white;
+    border-radius: 24px;
+    width: 100%;
+
+
+}
+.chicken-pasta-image{
+    height: 50vh;
+    width: 100%;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+}
+.recipe-name{
+    font-family:'Young Serif', serif;;
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 28px;
+}
+.recipe-description{
+    font-family:"roboto";
+    color: #808080;
+    font-weight:normal;
+    font-size: 18px;
+
+}
+.start-cooking-button{
+    height:45px;
+    width:120px;
+    background-color:#cccccc;
+    border-width: 1px;
+    border-color: #323f4b;
+    border-style: solid;
+    border-radius: 5px;
+}
+li::marker{
+    color:#323f4b ;
+}
+.Ingredients-container{
+    background-color:#fbfbfa;
+    height:42vh;
+    border-radius: 20px;
+    padding: 10px;
+    
+
+
+}
+.instruction-style{
+    font-family:"roboto";
+    color: #808080;
+    font-weight:normal;
+    font-size: 18px;
+
+}
+.table,td,th{
+    text-align: center;
+    border-color: #323f4b;
+    border: 1px solid;
+    padding: 7px;
+    text-align: center;
+}
